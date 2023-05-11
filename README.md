@@ -1,5 +1,3 @@
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src=""></img></div>
-
                                                        🏠 Home
  
 <div align="center">
