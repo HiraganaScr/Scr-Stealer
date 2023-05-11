@@ -4,11 +4,11 @@
 
 - **Grab Discord Token, Phone Number, E-mail and HQ Friends.**
 
-- **Discord Injection
+- **Discord Injection**
 
-- **Grab Browser cookies & passwords
+- **Grab Browser cookies & passwords**
 
-- **Grab specials files
+- **Grab specials files**
 
 - **Grab Telegram**
 
