@@ -4,6 +4,7 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/f1En67c.png"></img> 
     
 </div>
+
                                                        🤖 Futures
 
 - **Startup**
