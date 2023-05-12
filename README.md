@@ -42,3 +42,4 @@
 <bold>Educational purpose only!</bold>                                                      
 
 Scr Stealer and Creal Stealer.
+Partenariat.
